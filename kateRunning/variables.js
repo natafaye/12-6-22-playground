@@ -1,1 +1,2 @@
-var class = "fun"
+
+var classCoding = "fun";
