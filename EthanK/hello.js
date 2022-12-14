@@ -10,8 +10,10 @@ for (let i = 0; i < numberOfPeople; i++) {
     if (isMorning === 'yes') {
         message += "good Morning!\n"
     }
-    else {
+    else
+    {
+        message += "Good afternoon!\n"
     }
-    alert('Hello there, user!')
 
 }
+alert(message)
