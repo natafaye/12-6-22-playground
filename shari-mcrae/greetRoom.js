@@ -1,4 +1,4 @@
-console.log("Inside Shari's javascript file!");
+console.log("Inside Shari's greetRoom.js file!");
 let numberOfPeopleString;
 let numberOfPeople;
 do {
